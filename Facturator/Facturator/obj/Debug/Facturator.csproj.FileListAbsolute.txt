@@ -1,1 +1,19 @@
 c:\users\labora1\documents\visual studio 2015\Projects\Facturator\Facturator\bin\Debug\Facturator.exe.config
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\bin\Debug\Facturator.exe.config
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\bin\Debug\Facturator.exe
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\bin\Debug\Facturator.pdb
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\obj\Debug\Facturator.csprojResolveAssemblyReference.cache
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\obj\Debug\Facturator.Facturacion.resources
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\obj\Debug\Facturator.Properties.Resources.resources
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\obj\Debug\Facturator.csproj.GenerateResource.Cache
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\obj\Debug\Facturator.exe
+C:\Users\labora1\Desktop\degree_gpi_facturator-master\degree_gpi_facturator-master\Facturator\Facturator\obj\Debug\Facturator.pdb
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\Facturator.exe.config
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.exe
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.pdb
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\Facturator.exe
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\Facturator.pdb
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.csprojResolveAssemblyReference.cache
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.Facturacion.resources
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.Properties.Resources.resources
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.csproj.GenerateResource.Cache
