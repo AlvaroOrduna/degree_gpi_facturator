@@ -69,9 +69,10 @@ namespace Facturator
                 p3q = 0f;
             else
                 p3q = float.Parse(p3quantity.Text);
-
-            totalPriceLabel.Text = (p1q * prices[0] + p2q * prices[1] + p3q * prices[2]).ToString();
-
+            float noIva;
+            noIva = (p1q * prices[0] + p2q * prices[1] + p3q * prices[2]);
+            sinIva.Text = noIva.ToString();
+            totalPriceLabel.Text = ((noIva * 0.21) + noIva).ToString();
         }
     }
 }
