@@ -55,6 +55,23 @@ namespace Facturator
         private void calcularButton_Click(object sender, EventArgs e)
         {
 
+            float[] prices = { 1, 1, 1 };
+            float p1q, p2q, p3q;
+            if (p1quantity.Text.Equals(""))
+                p1q = 0f;
+            else
+                p1q = float.Parse(p1quantity.Text);
+            if (p2quantity.Text.Equals(""))
+                p2q = 0f;
+            else
+                p2q = float.Parse(p2quantity.Text);
+            if (p3quantity.Text.Equals(""))
+                p3q = 0f;
+            else
+                p3q = float.Parse(p3quantity.Text);
+
+            totalPriceLabel.Text = (p1q * prices[0] + p2q * prices[1] + p3q * prices[2]).ToString();
+
         }
     }
 }
