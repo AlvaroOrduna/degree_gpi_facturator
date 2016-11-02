@@ -39,6 +39,8 @@
             this.totalPriceLabel = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.sinIva = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // calcularButton
@@ -141,11 +143,31 @@
             this.label2.TabIndex = 10;
             this.label2.Text = "Cantidad";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(169, 192);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(40, 13);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "Sin Iva";
+            // 
+            // sinIva
+            // 
+            this.sinIva.AutoSize = true;
+            this.sinIva.Location = new System.Drawing.Point(215, 192);
+            this.sinIva.Name = "sinIva";
+            this.sinIva.Size = new System.Drawing.Size(57, 13);
+            this.sinIva.TabIndex = 12;
+            this.sinIva.Text = "pricesiniva";
+            // 
             // Facturacion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Controls.Add(this.sinIva);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.totalPriceLabel);
@@ -178,6 +200,8 @@
         private System.Windows.Forms.Label totalPriceLabel;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label sinIva;
     }
 }
 

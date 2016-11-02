@@ -17,3 +17,12 @@ D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestr
 D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.Facturacion.resources
 D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.Properties.Resources.resources
 D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.csproj.GenerateResource.Cache
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\bin\Debug\Facturator.exe.config
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\bin\Debug\Facturator.exe
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\bin\Debug\Facturator.pdb
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.csprojResolveAssemblyReference.cache
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.Facturacion.resources
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.Properties.Resources.resources
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.csproj.GenerateResource.Cache
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.exe
+C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.pdb
