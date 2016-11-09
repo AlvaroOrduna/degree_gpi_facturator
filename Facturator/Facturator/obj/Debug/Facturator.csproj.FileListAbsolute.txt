@@ -26,3 +26,7 @@ C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\De
 C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.csproj.GenerateResource.Cache
 C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.exe
 C:\Users\labora1\Source\Repos\degree_gpi_facturator\Facturator\Facturator\obj\Debug\Facturator.pdb
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\PdfSharp.dll
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\PdfSharp.pdb
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\PdfSharp.xml
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\de\PdfSharp.resources.dll
