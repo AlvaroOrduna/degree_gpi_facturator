@@ -110,20 +110,20 @@
             // totalLabel
             // 
             this.totalLabel.AutoSize = true;
-            this.totalLabel.Location = new System.Drawing.Point(169, 216);
+            this.totalLabel.Location = new System.Drawing.Point(137, 216);
             this.totalLabel.Name = "totalLabel";
-            this.totalLabel.Size = new System.Drawing.Size(34, 13);
+            this.totalLabel.Size = new System.Drawing.Size(86, 13);
             this.totalLabel.TabIndex = 7;
-            this.totalLabel.Text = "Total:";
+            this.totalLabel.Text = "TOTAL con IVA:";
             // 
             // totalPriceLabel
             // 
             this.totalPriceLabel.AutoSize = true;
-            this.totalPriceLabel.Location = new System.Drawing.Point(242, 216);
+            this.totalPriceLabel.Location = new System.Drawing.Point(241, 216);
             this.totalPriceLabel.Name = "totalPriceLabel";
-            this.totalPriceLabel.Size = new System.Drawing.Size(30, 13);
+            this.totalPriceLabel.Size = new System.Drawing.Size(13, 13);
             this.totalPriceLabel.TabIndex = 8;
-            this.totalPriceLabel.Text = "price";
+            this.totalPriceLabel.Text = "0";
             // 
             // label1
             // 
@@ -146,20 +146,20 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(169, 192);
+            this.label3.Location = new System.Drawing.Point(137, 192);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(40, 13);
+            this.label3.Size = new System.Drawing.Size(81, 13);
             this.label3.TabIndex = 11;
-            this.label3.Text = "Sin Iva";
+            this.label3.Text = "TOTAL sin IVA:";
             // 
             // sinIva
             // 
             this.sinIva.AutoSize = true;
-            this.sinIva.Location = new System.Drawing.Point(215, 192);
+            this.sinIva.Location = new System.Drawing.Point(241, 192);
             this.sinIva.Name = "sinIva";
-            this.sinIva.Size = new System.Drawing.Size(57, 13);
+            this.sinIva.Size = new System.Drawing.Size(13, 13);
             this.sinIva.TabIndex = 12;
-            this.sinIva.Text = "pricesiniva";
+            this.sinIva.Text = "0";
             // 
             // Facturacion
             // 
