@@ -42,11 +42,12 @@
             this.label3 = new System.Windows.Forms.Label();
             this.sinIva = new System.Windows.Forms.Label();
             this.guardar = new System.Windows.Forms.Button();
+            this.vaciar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // calcularButton
             // 
-            this.calcularButton.Location = new System.Drawing.Point(29, 192);
+            this.calcularButton.Location = new System.Drawing.Point(29, 250);
             this.calcularButton.Name = "calcularButton";
             this.calcularButton.Size = new System.Drawing.Size(75, 23);
             this.calcularButton.TabIndex = 0;
@@ -164,7 +165,7 @@
             // 
             // guardar
             // 
-            this.guardar.Location = new System.Drawing.Point(29, 221);
+            this.guardar.Location = new System.Drawing.Point(179, 250);
             this.guardar.Name = "guardar";
             this.guardar.Size = new System.Drawing.Size(75, 23);
             this.guardar.TabIndex = 13;
@@ -172,11 +173,22 @@
             this.guardar.UseVisualStyleBackColor = true;
             this.guardar.Click += new System.EventHandler(this.guardar_Click);
             // 
+            // vaciar
+            // 
+            this.vaciar.Location = new System.Drawing.Point(29, 206);
+            this.vaciar.Name = "vaciar";
+            this.vaciar.Size = new System.Drawing.Size(75, 23);
+            this.vaciar.TabIndex = 14;
+            this.vaciar.Text = "Vaciar";
+            this.vaciar.UseVisualStyleBackColor = true;
+            this.vaciar.Click += new System.EventHandler(this.vaciar_Click);
+            // 
             // Facturacion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(284, 296);
+            this.Controls.Add(this.vaciar);
             this.Controls.Add(this.guardar);
             this.Controls.Add(this.sinIva);
             this.Controls.Add(this.label3);
@@ -215,6 +227,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label sinIva;
         private System.Windows.Forms.Button guardar;
+        private System.Windows.Forms.Button vaciar;
     }
 }
 

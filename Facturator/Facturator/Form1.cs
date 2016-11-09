@@ -165,5 +165,12 @@ namespace Facturator
 
             pdf.Save("D:\\Álvaro\\Escritorio\\factura.pdf");
         }
+
+        private void vaciar_Click(object sender, EventArgs e)
+        {
+            p1quantity.Text = "";
+            p2quantity.Text = "";
+            p3quantity.Text = "";
+        }
     }
 }
