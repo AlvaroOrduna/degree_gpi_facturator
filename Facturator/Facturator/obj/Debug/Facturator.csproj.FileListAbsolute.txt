@@ -30,3 +30,4 @@ D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestr
 D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\PdfSharp.pdb
 D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\PdfSharp.xml
 D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\bin\Debug\de\PdfSharp.resources.dll
+D:\Álvaro\Universidad\Grado en Ingeniería Informática\2016-2017 - 7º Semestre\240701 Gestión de Proyectos Informáticos I\Prácticas GPI\Facturator\Proyecto\Facturator\Facturator\obj\Debug\Facturator.UserAuth.resources
